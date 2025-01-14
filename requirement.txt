@@ -1,0 +1,15 @@
+streamlit==1.37.1
+langchain==0.3.14
+langchain-community==0.3.14
+
+openai==1.59.5
+langchain-openai==0.2.14
+langchain-chroma==0.2.0
+chromadb>=0.4.0
+requests==2.32.3
+
+python-dotenv==0.21.0
+beautifulsoup4==4.12.3
+
+spacy>=3.0.0
+https://github.com/explosion/spacy-models/releases/download/ko_core_news_sm-3.5.0/ko_core_news_sm-3.5.0-py3-none-any.whl
