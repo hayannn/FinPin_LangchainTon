@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+
+# Dependencies
+*.egg
+*.egg-info
+dist/
+build/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config
+.streamlit/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
