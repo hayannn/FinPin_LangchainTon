@@ -78,13 +78,14 @@
 ## 디렉터리 구조
 ```
 ├── 📑 README.md
-├── 📑 .gitignore         # gitHub 저장소에 올라가지 않아야 하는 파일 설정
-├── 📑 requirement.txt    # 설치 파일 목록
-├── 🗂️ docs               # Notion 자료, BackLog, Appendix 내용 업로드
-|   └── ...
+├── 📑 .gitignore              # gitHub 저장소에 올라가지 않아야 하는 파일 설정
+├── 📑 requirement.txt         # 설치 파일 목록
+├── 🗂️ docs                    # Notion 자료, BackLog, Appendix 내용 업로드
+|   ├── 금융핀_PoC.pdf           # PoC, 페르소나 시나리오, 다이어그램, 시스템 아키텍쳐..
+|   └── 금융핀_BackLog_하얀.pdf   # 코드 트러블 슈팅 및 작업 기록
 |
-├── 📑 fetch_news.py      # Naver Search APi 사용 스크립트
-└── 📍 finpin.py          # 메인 앱 파일
+├── 📑 fetch_news.py            # Naver Search APi 사용 스크립트
+└── 📍 finpin.py                # 메인 앱 파일
 ```
 <br>
 <br>
@@ -195,7 +196,7 @@ streamlit run finpin.py
 <br>
 
 ## 시연 영상
-추후 업로드
+[![Video Label](http://img.youtube.com/vi/lXyj4wPDzNI/0.jpg)](https://youtu.be/lXyj4wPDzNI)
 
 <br>
 <br>
