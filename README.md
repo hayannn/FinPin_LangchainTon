@@ -89,8 +89,14 @@
 <br>
 <br>
 
+## 유스케이스 다이어그램
+![금융핀 다이어그램](https://github.com/user-attachments/assets/84b25726-3e51-46f2-9163-d13bc89297e9)
+
+<br>
+<br>
+
 ## 서비스 아키텍쳐
-이미지 첨부 예정
+![서비스아키텍쳐](https://github.com/user-attachments/assets/61149e3f-88ca-46b8-9dab-72384b4d2b5d)
 
 <br>
 <br>
