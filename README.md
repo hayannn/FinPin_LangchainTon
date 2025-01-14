@@ -212,3 +212,29 @@ streamlit run finpin.py
 ### 4. 요약 내용 개선 및 오타에 대한 유연성
 첨부한 기사들을 기반으로 더 잘 요약된 "전체 요약"내용의 개선이 필요<br>
 사용자 입력에 있어 기본적인 오타 또는 비정형 입력 등에 대한 처리가 있어야 할 것으로 보임
+
+<br>
+<br>
+
+## 참고 문서 및 코드 참고
+### 교재 및 코드 뼈대
+- [이토록 쉬운 RAG 시스템 구축을 위한 랭체인 실전 가이드: LLM 기초부터 모델 API, 벡터 DB, 임베딩, AI Agent까지](https://www.yes24.com/product/goods/136548871)
+- [Langchain-RAG](https://github.com/Kane0002/Langchain-RAG)
+
+### Naver Open API
+- [NAVER Developers](https://developers.naver.com/main/)
+- Naver News Search API: [검색 > 뉴스 - Search API](https://developers.naver.com/docs/serviceapi/search/news/news.md)
+    
+### 주제 관련 참고 레퍼런스(코드 참고가 아닌 주제 참고)
+- 내부 파일
+  - [AI 실시간 뉴스 요약](https://github.com/jonghy92/AI-Realtime-K-News-Summarizer)
+
+- 크롤링
+  - [취업 준비생을 위한 직무별 뉴스 요약 서비스](https://github.com/MJU-capstone2023/JobBrief-Backend)
+  - [GPT를 활용한 주식 뉴스 AI 요약 프로젝트](https://github.com/DH-an/StockNews_AI_Summary)
+
+- API 사용
+  - [뉴스 요약 챗봇 포뉴](https://github.com/imfromkoreah/FocusNews)
+
+- 전체 플로우 참고
+  - [AIsenet](https://github.com/BongwooChoi/AIsenet?tab=readme-ov-file)
